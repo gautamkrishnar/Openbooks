@@ -15,7 +15,7 @@ All file types are accepted..
 *  Add a centralaized index of all books sorted by categories.
 *  Add More books
 *  Categorize books
-*  Create platform to read books using github pages
+*  Create a platform to read books using github pages
 
 ###### Dont forget to star and fork this project. Letz join our hands together for the open web and open data.
 ![](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
