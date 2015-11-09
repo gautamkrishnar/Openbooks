@@ -19,6 +19,7 @@ All file types are accepted..
 
 
 ### Contributors
+* [Md Haris Iqbal](https://github.com/harisphnx)
 * Your name will be added here
 
 ###### Dont forget to star and fork this project. Letz join our hands together for the open web and open data.
