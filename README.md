@@ -6,6 +6,7 @@ We are a group of open data lovers, united to share knowledge...
 ### Join the revolution
 If you have any books with you, join the open data revolution by submitting a new pull request. 
 
+<<<<<<< HEAD
 You can also upload files using the link below:
 
 http://openbook-gkrish.rhcloud.com/
@@ -24,3 +25,7 @@ All file types are accepted..
 
 ###### Dont forget to star and fork this project. Letz join our hands together for the open web and open data.
 ![](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+=======
+### About gh-pages branch
+- This is the code repo of the webpage http://gautamkrishnar.github.io/Openbooks
+>>>>>>> Update README.md
