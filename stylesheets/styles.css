@@ -770,6 +770,10 @@ dt {
   float: left;
   margin-left: 0px;
 }
+#header li.indpage {
+  float: left;
+  margin-left: 6px;
+}
 #header nav li.downloads {
   float: right;
   margin-left: 6px;
