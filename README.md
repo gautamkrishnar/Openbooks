@@ -20,7 +20,7 @@ All file types are accepted..
 
 ### Contributors
 * [Md Haris Iqbal](https://github.com/harisphnx)
-* {Stanly Jhonson](https://github.com/stanly-johnson)
+* [Stanly Jhonson](https://github.com/stanly-johnson)
 * Your name will be added here
 
 ###### Dont forget to star and fork this project. Letz join our hands together for the open web and open data.
