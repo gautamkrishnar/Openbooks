@@ -25,3 +25,7 @@ All file types are accepted..
 
 ###### Dont forget to star and fork this project. Letz join our hands together for the open web and open data.
 ![](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gautamkrishnar/openbooks/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
