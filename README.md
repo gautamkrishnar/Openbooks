@@ -1,7 +1,7 @@
 # Openbooks
 An online repo to share books. Created in the loving memory of the internet's own boy Aaron swartz, on his birthday.
 ![Aaron Swartz](http://i.imgur.com/gSoXS2q.jpg)
-### Who are we?
+### Who we are?
 We are a group of open data lovers, united to share knowledge...
 ### Join the revolution
 If you have any books with you, join the open data revolution by submitting a new pull request. 
